@@ -102,13 +102,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>makesh-release</name>
-	      <url>http://3.236.117.250:8081/repository/makesh-release/</url>
+	      <url>http://3.235.180.195:8081/repository/makesh-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>makesh-snapshot</name>
-	      <url>http://3.236.117.250:8081/repository/makesh-snapshot/</url>
+	      <url>http://3.235.180.195:8081/repository/makesh-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
