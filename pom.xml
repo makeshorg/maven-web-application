@@ -102,13 +102,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>wallmart-release</name>
-	      <url>http://13.233.126.90:8081/repository/makesh-release/</url>
+	      <url>http://13.233.156.211:8081/repository/wallmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>wallmart-snapshot</name>
-	      <url>http://13.233.126.90:8081/repository/makesh-snapshot/</url>
+	      <url>http://13.233.156.211:8081/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
