@@ -21,8 +21,8 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://15.207.113.139:9000/</sonar.host.url>
-		 <sonar.login> b9bdb7b9e6ba56a2a616578086512c2dbf918d0a </sonar.login>
+		<sonar.host.url>http://13.232.100.120:9000/</sonar.host.url>
+		 <sonar.login>249f8edc40209f4a9ee9e8191fd5f71e5bcf7d9b</sonar.login>
 		<!--
 	         <sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
@@ -102,13 +102,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>wallmart-release</name>
-	      <url>http://13.233.156.211:8081/repository/wallmart-release/</url>
+	      <url>http://13.233.158.186:8081/repository/wallmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>wallmart-snapshot</name>
-	      <url>http://13.233.156.211:8081/repository/wallmart-snapshot/</url>
+	      <url>http://13.233.158.186:8081/repository/wallmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
