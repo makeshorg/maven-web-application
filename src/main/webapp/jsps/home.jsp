@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mithun Software Solutions.......GitHub WebHook change....26th Dec 2020</h1>
-<h1 align="center"> Welcome to Mithun Software SolutiononeDevOps with AWS on   makesh boyapati's  1  at 84PM IST for new batch, This is a weekdays batch!!!!!MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
+<h1 align="center"> Welcome to Mithun Software SolutiononeDevOps with AWS on   boyapyi makesh boyapati's  1  at 84PM IST for new batch, This is a weekdays batch!!!!!MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
